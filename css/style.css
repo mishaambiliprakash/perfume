@@ -1,0 +1,75 @@
+.mytitle{
+    background-color:blue;
+    background-repeat: no-repeat;
+    color: blueviolet;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url("../images/perf1.jpeg");
+    font-style: italic;
+    text-transform: initial;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.create{
+    color: blueviolet;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.shop{
+    color: rgb(73, 73, 184);
+    font-size: x-large;
+    font-weight: 900;
+    background-image: url(../images/perf5.jpeg);  
+    
+    text-align: left;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hhh{
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.hh{
+    color: darkblue;
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about{
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../images/perf2.jpeg);
+    background-position: center;
+
+
+}
+.log{
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../images/perf4.jpeg");
+    background-position: center;
+    
+
+
+}
